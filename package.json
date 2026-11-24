@@ -1,0 +1,8 @@
+{
+  "name": "u-pucuys-funniest-excuse-an-agent-gives-for-a-missed-ad6aef19",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
